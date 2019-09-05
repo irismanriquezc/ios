@@ -19,7 +19,10 @@ class calculate: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        UIView.animate(withDuration: 3, animations: {
+            self.view.backgroundColor = UIColor.red
 
+        })
         // Do any additional setup after loading the view.
     }
     
