@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/calculate.swift"
+            timestampString = "589340297.467985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "calculate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.percentControl.getter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.494604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.percentControl.setter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.503615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.percentControl.modify : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.506424"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.percentControl.modify : Swift.Optional&lt;__C.UISegmentedControl&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.5091749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TipCalculator.calculate"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.511757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.calculate.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TipCalculator.calculate&gt;"
+                  moduleName = "TipCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/irismanriquez/Desktop/TipCalculator/TipCalculator/calculate.swift"
+                  timestampString = "589340221.514287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
