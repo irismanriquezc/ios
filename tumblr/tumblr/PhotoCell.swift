@@ -1,19 +1,15 @@
 //
-//  MovieCell.swift
-//  flix
+//  PhotoCell.swift
+//  tumblr
 //
-//  Created by Iris Manriquez on 9/15/19.
+//  Created by Iris Manriquez on 9/18/19.
 //  Copyright © 2019 Iris Manriquez. All rights reserved.
 //
 
 import UIKit
 
-class MovieCell: UITableViewCell {
+class PhotoCell: UITableViewCell {
 
-    @IBOutlet weak var titleLabel: UILabel!
-    @IBOutlet weak var synopsisLabel: UILabel!
-    @IBOutlet weak var posterView: UIImageView!
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
